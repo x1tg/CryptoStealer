@@ -1,5 +1,5 @@
 <h1 align="center">
-X1na Crypto Stealer!
+X1na Crypto Stealer.
   <div align="center">
   <div>
    <a href="https://ibb.co/HXc2pzS"><img src="https://i.ibb.co/QXWcjNg/x1na-c-RYPTO-STEALER.png" alt="x1na-c-RYPTO-STEALER" border="0"></a>
